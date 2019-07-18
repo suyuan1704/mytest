@@ -1,0 +1,5 @@
+[submodule "ESP8266-Demos"]
+	path = ESP8266-Demos
+	url = https://github.com/suyuan1704/ESP8266-Demos.git
+	branch = master
+	update = rebase
